@@ -2,6 +2,6 @@
 basic framework for appium [Android]
 
 **My Android settings** <br />
-![ScreenShot](https://github.com/anand853/AppiumStartUp/blob/master/src/com/util/readme/android_settigns.png)
+![ScreenShot](https://github.com/anand853/AppiumStartUp/blob/master/src/com/util/readme/android_settigns.png)<br />
 **My general settings** <br />
-![ScreenShot](https://github.com/anand853/AppiumStartUp/blob/master/src/com/util/readme/general_settings.png)
+![ScreenShot](https://github.com/anand853/AppiumStartUp/blob/master/src/com/util/readme/general_settings.png)<br />
