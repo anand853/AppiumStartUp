@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14255" started-at="2016-03-22T03:10:09Z" finished-at="2016-03-22T03:10:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14255" started-at="2016-03-22T03:10:09Z" finished-at="2016-03-22T03:10:24Z">
+      <class name="com.test.appium.Demo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.appium.Demo@7a92922]" name="setUp" is-config="true" duration-ms="1234" started-at="2016-03-21T23:10:09Z" finished-at="2016-03-21T23:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.test.appium.Demo@7a92922]" name="testOne" duration-ms="10955" started-at="2016-03-21T23:10:11Z" finished-at="2016-03-21T23:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="terminateDriver()[pri:0, instance:com.test.appium.Demo@7a92922]" name="terminateDriver" is-config="true" duration-ms="2038" started-at="2016-03-21T23:10:22Z" finished-at="2016-03-21T23:10:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateDriver -->
+      </class> <!-- com.test.appium.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
